@@ -33,9 +33,10 @@ The project follows the standard Android project structure:
 
 ## Video Playback
 
-To see the app in action, check out the [demo video](AppVideo/TaskVideo.webm).
+To see the app in action, check out the [demo video](https://github.com/rajputmukesh748/Compose-Stop-TimerAppVideo/TaskVideo.webm).
 
-[![Demo Video](AppVideo/AppScreenshot.png)](AppVideo/TaskVideo.webm)
+[![Watch the video](https://github.com/rajputmukesh748/Compose-Stop-TimerAppVideo/TaskVideo.webm)
+
 
 
 <b><h3>Thanks for your support. Please try and support it.</h3></b>
