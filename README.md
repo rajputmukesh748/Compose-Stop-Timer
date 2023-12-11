@@ -33,9 +33,9 @@ The project follows the standard Android project structure:
 
 ## Video Playback
 
-To see the app in action, check out the [demo video](https://drive.google.com/file/d/1XU0y5Hkbfvqgf_g1kWi91aOkT57pj5fC/view?usp=sharing).
+To see the app in action, check out the [App Video](https://drive.google.com/file/d/1XU0y5Hkbfvqgf_g1kWi91aOkT57pj5fC/view?usp=sharing).
 
-[![Watch the video](https://drive.google.com/file/d/1XU0y5Hkbfvqgf_g1kWi91aOkT57pj5fC/view?usp=sharing)
+[Watch Video](https://drive.google.com/file/d/1XU0y5Hkbfvqgf_g1kWi91aOkT57pj5fC/view?usp=sharing)
 
 
 
