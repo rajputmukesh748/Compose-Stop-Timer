@@ -39,4 +39,4 @@ To see the app in action, check out the [App Video](https://drive.google.com/fil
 
 
 
-<b><h3>Thanks for your support. Please try and support it.</h3></b>
+<b><h3>Thank you for your support.</h3></b>
